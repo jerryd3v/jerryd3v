@@ -1,9 +1,9 @@
-### Hi there 👋
+### ¡Hola! 👋
 
-<!--
-**jerryd3v/jerryd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me llamo **Jerry Rodriguez** soy `Desarrollador Web Frontend`.
+
+Me encantan la maquetacion y sobre todo `React.js` 🚀
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
