@@ -1,15 +1,17 @@
 ### ¡Hola! 👋
 
 
-Me llamo **Jerry Rodriguez** soy `Desarrollador Web Frontend` <code/>.
+Me llamo **Jerry Rodríguez** soy `Desarrollador Web Frontend` < code /> ⌨.
 
-Me encantan la maquetacion y sobre todo `React.js` 🚀
+Me encantan la maquetación y sobre todo `React.js` 🚀
 
-Siempre estare dispuesto a enfrentarme a cualquier reto que incluya un navegador web
+Siempre estaré dispuesto a enfrentarme a cualquier reto que incluya un navegador web, el entorno donde me siento más como trabajar es React.js,
+llevo 3 años trabajando como desarrollador web, tengo algunas pizcas de `Backend` ya que he realizados pequeñas partes que necesitaban alguna que otra
+tarea de un `Backend`.
 
-Las tecnologias que comunmente uso son:
+Las tecnologías que comúnmente uso son:
 
-- 🚀 React ...
+- 🚀 React.js ...
 - ⚙ Javascript ...
 - 💀 HTML5 ...
 - 🎨 CSS3 ...
