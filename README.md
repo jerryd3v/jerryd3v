@@ -2,8 +2,9 @@
   <img src="https://i.ibb.co/8NGDCFG/This-Is-Fine.png" align="center" width="200"/>
 </div>
 
-
-### ¡Hola! 👋
+<div id="header" align="center">
+  <h1> ¡Hola! 👋</h1>
+</div>
 
 
 Me llamo **Jerry Rodríguez** soy `Desarrollador Web Frontend` < code /> ⌨.
@@ -25,3 +26,4 @@ Las tecnologías que comúnmente uso son:
 - 🐘 Php ...
 - ⚡ Node.js ...
 
+- 📷 Instagram @jerryd3v...
