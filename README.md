@@ -8,9 +8,17 @@ Me encantan la maquetación y sobre todo React.js Siempre estaré dispuesto a en
 
 
 
-- 🔭 Actualmente trabajo en una App Android [App World Pedidos](Privado)
+- 🔭 En este momento estoy trabajando en una App para Android [App World Pedidos](Privado)
 
-- Yo actualmente estoy aprendido contenido de **React.js, React Native, Android, Swift, JavaScript, Clean Code.**- Estoy Buscando colaborar en proyectos de **React.js y React Native**- Busco apoyo con **Backend**- Pueden preguntarme sobre **React.js, React Native, JavaScript, Css 3, BootStrap, HTML 5**- 🌱 👯 📫 💬 🤝 Mi correo es **jerry7991@gmail.com**
+- 🌱 Actualmente estoy aprendido contenido de **React.js, React Native, Android, Swift, JavaScript, Clean Code.**
+  
+- 👯 Estoy Buscando colaborar en proyectos de **React.js y React Native**
+  
+- 🤝 Busco apoyo con **Backend**
+  
+- 💬 Pueden preguntarme sobre **React.js, React Native, JavaScript, Css 3, BootStrap, HTML 5**
+  
+- 📫 Mi correo es **jerry7991@gmail.com**
 
 
 
