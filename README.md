@@ -31,7 +31,7 @@ Me encantan la maquetación y sobre todo React.js Siempre estaré dispuesto a en
 <h3 align="left">Conéctate conmigo:</h3><p align="left"><a href="https://twitter.com/@jerry_7991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jerry_7991" height="30" width="40" /></a>
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jerry-rodriguez-316278159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerry-rodriguez-316278159" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jerry-rodriguez-316278159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerry-rodriguez-316278159" height="30" width="40" /></a>
 <a href="https://fb.com/jerry.rodriguez.71271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jerry rodriguez" height="30" width="40" /></a>
 <a href="https://instagram.com/jerryd3v" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jerryd3v" height="30" width="40" /></a></p><h3 align="left">Languages and Tools:</h3><p align="left">
 
